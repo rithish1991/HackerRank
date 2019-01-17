@@ -19,7 +19,7 @@ public class ArrayManipulation {
 
 	public static void main(String[] args) {
        //answer 31
-		int array[][] = { { 2, 6, 8 }, { 3, 5, 7 }, { 1, 8, 1 }, { 5, 9, 15 } };
+		int array[][] = { { 2, 6, 8 }, { 3, 5, 7 }, { 1, 8, 1 }, { 5, 9, 75 } };
 		System.out.println(arrayManipulation(10, array));
 	}
 
