@@ -1,4 +1,4 @@
-package Com.Problem.Solving.gowtham;
+package Com.Problem.Solving.datastructures.arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;
