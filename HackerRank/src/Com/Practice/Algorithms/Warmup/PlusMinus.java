@@ -1,4 +1,4 @@
-package Com.Problem.Solving.Warmup;
+package Com.Practice.Algorithms.Warmup;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;

@@ -1,4 +1,4 @@
-package Com.Problem.Solving.Warmup;
+package Com.Practice.Algorithms.Warmup;
 
 import java.util.Arrays;
 //Problem 2 
